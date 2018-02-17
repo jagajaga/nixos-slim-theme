@@ -4,7 +4,7 @@
 
 # messages (ie: shutdown, session options, etc)
 msg_color               #000000
-msg_font                Sans:size=10:bold:dpi=96
+msg_font                Sans:size=10:bold:dpi=220
 msg_x                   50%
 msg_y                   70%
 
@@ -13,24 +13,24 @@ background_style        tile
 background_color        #000000
 
 # input box controls
-input_font          	Sans:size=10:bold:dpi=96
+input_font          	Sans:size=10:bold:dpi=220
 input_fgcolor           #000000
 # panel location
 input_panel_x           50%
 input_panel_y           50%
 input_name_x            52
-input_name_y            214
+input_name_y            254
 # force single input box (gdm style)
 input_pass_x            -1
 input_pass_y            -1
 
 # username / password request (actual text)
-username_font          	Sans:size=10:bold:dpi=96
+username_font          	Sans:size=10:bold:dpi=220
 username_color        	#000000
 username_x              50
-username_y              190
+username_y              210
 password_x              50
-password_y              190
+password_y              210
 username_msg            Username:
 password_msg            Password:
 
@@ -40,3 +40,4 @@ password_msg            Password:
 #welcome_font           	Sans:size=10:bold:dpi=96
 #welcome_color          	#000000
 
+session_color           #000000
