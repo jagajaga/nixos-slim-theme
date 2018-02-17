@@ -1,4 +1,4 @@
-#Theme for [SLiM](http://slim.berlios.de/) with [NixOS](http://nixos.org/) thematics.
+#Theme for [SLiM](http://slim.berlios.de/) with [NixOS](http://nixos.org/) thematics HiDPI version.
 ![preview](https://github.com/jagajaga/nixos-slim-theme/raw/master/preview.png)
 
 ## How to use
